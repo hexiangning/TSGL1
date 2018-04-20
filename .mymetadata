@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TSGL1"
+  id="myeclipse.1522149488811"
+  context-root="/tushuguanli"
+  j2ee-spec="5.0"
+  archive="TSGL1.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
